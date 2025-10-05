@@ -39,4 +39,3 @@ The code is written and compiled in **STM32CubeIDE**, and the hardware simulatio
 
 ---
 
-## 📂 Repository Structure
