@@ -24,6 +24,8 @@ The code is written and compiled in **STM32CubeIDE**, and the hardware simulatio
    - Virtual ground and Vcc connections  
 
 ---
+<img width="1024" height="775" alt="image" src="https://github.com/user-attachments/assets/cabdae7e-d9f4-4bc1-8d71-6bf92f2062f3" />
+
 
 ## ▶️ Running the Project
 ### 1. In STM32CubeIDE
